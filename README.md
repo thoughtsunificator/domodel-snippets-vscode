@@ -1,6 +1,6 @@
-# domodel-snippets-sublime
+# domodel-snippets-vscode
 
-Sublime snippets for [domodel](https://github.com/thoughtsunificator/domodel).
+VSCode snippets for [domodel](https://github.com/thoughtsunificator/domodel).
 
 ## Installing
 
