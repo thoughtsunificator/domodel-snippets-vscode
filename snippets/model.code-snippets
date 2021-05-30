@@ -1,0 +1,11 @@
+{
+	"domodel model": {
+		"prefix": "model",
+		"body": [
+			"export default {",
+			"\ttagName: \"${1:div}\"",
+			"}"
+		],
+		"description": "domodel model"
+	}
+}

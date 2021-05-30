@@ -1,0 +1,18 @@
+{
+	"domodel binding": {
+		"prefix": "binding",
+		"body": [
+			"import { DOModel, Binding } from 'domodel'",
+			"",
+			"export default class extends Binding {",
+			"\t",
+			"\tasync onCreated() {",
+			"\t",
+			"\t\tconst { application } = this.properties",
+			"\t\t",
+			"\t}",
+			"}"
+		],
+		"description": "domodel binding"
+	}
+}

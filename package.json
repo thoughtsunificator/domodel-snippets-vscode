@@ -1,0 +1,46 @@
+{
+		"name": "domodel-snippets",
+		"displayName": "domodel snippets",
+		"description": "domodel snippets for vscode",
+		"publisher": "thoughtsunificator",
+		"version": "1.0.5",
+		"engines": {
+			"vscode": "^1.46.0"
+		},
+		"categories": [
+			"Snippets"
+		],
+		"contributes": {
+			"snippets": [
+				{
+					"language": "javascript",
+					"path": "./snippets/model.code-snippets"
+				},
+				{
+					"language": "javascript",
+					"path": "./snippets/binding.code-snippets"
+				},
+				{
+					"language": "javascript",
+					"path": "./snippets/observable.code-snippets"
+				}
+			]
+		},
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/thoughtsunificator/domodel-snippets-vscode.git"
+		},
+		"keywords": [
+			"domodel",
+			"javascript",
+			"vscode",
+			"text",
+			"snippets"
+		],
+		"author": "Romain Lebesle <oss@thoughtsunificator.me> (https://thoughtsunificator.me)",
+		"license": "MIT",
+		"bugs": {
+			"url": "https://github.com/thoughtsunificator/domodel-snippets-vscode/issues"
+		},
+		"homepage": "https://github.com/thoughtsunificator/domodel-snippets-vscode"
+}

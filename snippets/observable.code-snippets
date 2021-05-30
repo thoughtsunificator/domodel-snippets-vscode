@@ -1,0 +1,16 @@
+{
+	"domodel observable": {
+		"prefix": "observable",
+		"body": [
+			"import { Observable } from 'domodel'",
+			"export default class extends Observable {",
+			"",
+			"\tconstructor(${1:field}) {",
+			"\t\tthis.${1:field} = ${1:field}",
+			"\t}",
+			"",
+			"}"
+		],
+		"description": "domodel observable"
+	}
+}
